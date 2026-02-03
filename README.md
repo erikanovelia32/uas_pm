@@ -34,12 +34,12 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+    git clone [https://github.com/erikanovelia32/uas_pm.git](https://github.com/erikanovelia32/uas_pm.git)
     ```
 
 2.  **Masuk ke Folder Project**
     ```bash
-    cd nama-repo-kamu
+    cd uas_pm
     ```
 
 3.  **Install Dependencies**
